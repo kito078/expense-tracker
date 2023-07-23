@@ -1,0 +1,24 @@
+.expense__item{
+    background: rgb(120, 120, 120);
+    height: 30px;
+    color: white;
+    padding-bottom: 2rem;
+}
+h5{
+    font-size: 1rem !important;
+}
+
+.list__items{
+
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+::placeholder{
+    color: rgb(172, 170, 170);
+}
+
+p{
+    font-size: 0.7rem;
+}
